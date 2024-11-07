@@ -1,0 +1,12 @@
+transformers
+
+pandas
+
+streamlit
+
+tensorflow
+
+tf-keras
+ 
+sentencepiece
+ 
